@@ -1,3 +1,7 @@
+# Locker Coding Excerise:
+
+The locker_app.rb file is the main ruby executable for the project. The specs are done using RSpec.
+
 # Problem:
 
 Write a program for managing locker reservations at a hotel concierge desk. Customers leave bags with the concierge, 
