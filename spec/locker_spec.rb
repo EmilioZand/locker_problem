@@ -1,5 +1,4 @@
-require './locker'
-require './bag'
+require 'spec_helper'
 
 RSpec.describe "Locker" do
   before do

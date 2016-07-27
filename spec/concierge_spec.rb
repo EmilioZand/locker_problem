@@ -1,6 +1,4 @@
-require './concierge'
-require './locker'
-require './bag'
+require 'spec_helper'
 
 RSpec.describe "Concierge" do
   before do

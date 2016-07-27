@@ -1,4 +1,4 @@
-require './bag'
+require 'spec_helper'
 
 RSpec.describe "Bag" do
   describe "#initialize" do
